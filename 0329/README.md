@@ -275,6 +275,15 @@ function App() {
 
 export default App;
 ```
+## 4.SPA기획
+
+플래너 페이지 한 눈에 지금 해야 할 일을 볼 수 있으며 뽀모도로 타이머를 추가하고 데일리루틴을 기록하게 함
+
+(https://www.figma.com/file/mv3Oye0CpRWwSVwSK2uL7K/Untitled?type=design&node-id=0%3A1&mode=design&t=k9CCrK1l6fGfKJHG-1)
+
+![image](https://github.com/SHAhn1111/WebProgrammingReact/assets/144648041/95559eb2-1191-40fa-b7f3-b15a820d01ec)
+
+
 # 수업 내용 간단 정리
 
 ## JSX 소개
