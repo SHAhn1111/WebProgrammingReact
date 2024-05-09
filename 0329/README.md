@@ -3,7 +3,7 @@
 ---
 
 - Report
-- 수업 내용 정리
+- [수업 내용 정리](https://github.com/SHAhn1111/WebProgrammingReact/tree/main/0329#%EC%88%98%EC%97%85-%EB%82%B4%EC%9A%A9-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC)
 
 ## 1.HTML자기소개 페이지 만들기
 
