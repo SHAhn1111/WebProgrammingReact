@@ -1,9 +1,8 @@
 # Report 0405 & 수업 정리
 
 ---
-
-[Report](https://github.com/SHAhn1111/WebProgrammingReact/tree/main/0405) : 웹 사이트를 5개 이상의 컴포넌트로 구성하고, 2개 이상의 props를 전달하는 컴포넌트를 하나 이상 포함하기
-
+Report : 웹 사이트를 5개 이상의 컴포넌트로 구성하고, 2개 이상의 props를 전달하는 컴포넌트를 하나 이상 포함하기
+[수업정리](https://github.com/SHAhn1111/WebProgrammingReact/tree/main/0405#%EC%88%98%EC%97%85-%EC%A0%95%EB%A6%AC)
 [React App (shahn1111.github.io)](https://shahn1111.github.io/WebProgrammingReact/0405/build/)
 
 
