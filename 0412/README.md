@@ -71,7 +71,7 @@ export default BlogPost;
 
 ## 2. 회원가입페이지 만들기
 
-[React App (shahn1111.github.io)](https://shahn1111.github.io/WebProgrammingReact/0412/build/)
+[React App (shahn1111.github.io)](https://shahn1111.github.io/WebProgrammingReact/0412/signup/build/)
 
 - 자바스크립트의 정규식을 이용해 비밀번호 유효성 검사도 구현함
 
