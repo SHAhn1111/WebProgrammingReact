@@ -1,6 +1,7 @@
 # Report 0412 & 수업 정리
 
 ---
+-[수업내용정리]
 
 Report : 
 
@@ -10,9 +11,9 @@ Report :
 
 2개 이상의 state를 가진 컴포넌트를 하나 이상 포함하세요.
 
-1개 이상의 props와 1개 이상의 state를 가진 컴포넌트를 하나 이상 포함하세요
+1개 이상의 props와 1개 이상의 state를 가진 컴포넌트를 하나 이상 포함하세요.
 
-2. 회원가입 페이지 만들기
+[2.회원가입 페이지 만들기](https://github.com/SHAhn1111/WebProgrammingReact/blob/main/0412/README.md#2-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ## 1. 0405의 웹사이트에서 추가함
 
